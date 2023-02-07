@@ -3,12 +3,9 @@
 
 format: jb-book
 root: intro
-parts:
-- caption: TESTING
-  chapters:
-   - file: markdown-notebooks
-- caption: Lecture 3B Class Conundrums
-  chapters:
+chapters:
+- file: 03b/overview
+  sections:
    - file: 03b/Introduction
    - file: 03b/Initializing_a_class
    - file: 03b/Initializing_a_class_exercise

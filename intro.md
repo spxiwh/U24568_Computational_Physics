@@ -1,11 +1,8 @@
 # Welcome to your Jupyter Book
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+Welcome to U24568: Computational Physics at the University of Portsmouth. In this course we will expand upon content in the first year "Introduction to Computational Physics" class and give you more practice and experience using python. We will begin with a recap of python and what we learned in the first year. We will then cover numerical statistics in python, introduce some advanced features of the language and demonstrate the use of python to solve ODEs (ordinary differential equations) before we have Coursework 1. We will then introduce you to a series of tools used for time-domain data analysis and set the second coursework as a practical application of these tools. We will also introduce you to LaTeX for preparing your coursework submission, discuss how to efficiently optimize code (including with Cython) and consider how to interactively visualise data. 
 
-Check out the content pages bundled with this sample book to see more.
+Follow the links below to access individual lectures' material!
 
 ```{tableofcontents}
 ```
