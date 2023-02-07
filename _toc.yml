@@ -1,0 +1,21 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+- caption: TESTING
+  chapters:
+   - file: markdown-notebooks
+- caption: Lecture 3B Class Conundrums
+  chapters:
+   - file: 03b/Introduction
+   - file: 03b/Initializing_a_class
+   - file: 03b/Initializing_a_class_exercise
+   - file: 03b/Optional_arguments 
+   - file: 03b/Class_defining_practice
+   - file: 03b/Attributes_and_inheritance
+   - file: 03b/Attributes_and_inheritance_exercise
+   - file: 03b/Recap
+   - file: 03b/Summary_exercises
+   - file: 03b/Acknowledgements
