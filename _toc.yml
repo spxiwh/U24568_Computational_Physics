@@ -16,3 +16,24 @@ chapters:
    - file: 03b/Recap
    - file: 03b/Summary_exercises
    - file: 03b/Acknowledgements
+   - file: 03b/CompPhys_Lect03b_2020_2021_ClassConundrums
+- file: 04a/overview
+  sections:
+   - file: 04a/Introduction
+   - file: 04a/List_comprehensions_overview
+   - file: 04a/List_comprehensions_exercises1
+   - file: 04a/List_comprehensions_conditionals
+   - file: 04a/List_comprehensions_exercises2
+   - file: 04a/Set_dictionary_comprehensions
+   - file: 04a/Generators_overview
+   - file: 04a/Generators_exercises1
+   - file: 04a/Generators_more_detail
+   - file: 04a/Generators_exercises2
+   - file: 04a/Recursion_overview
+   - file: 04a/Recursion_exercises
+   - file: 04a/Lambda_overview
+   - file: 04a/Lambda_exercises
+   - file: 04a/Summary_exercises
+   - file: 04a/CompPhys_Lect04a_2022-23_AdvancedTechniques
+
+
