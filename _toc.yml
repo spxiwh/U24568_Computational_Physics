@@ -37,8 +37,8 @@ chapters:
    - file: 04a/CompPhys_Lect04a_2022-23_AdvancedTechniques
 - file: 08a/overview
   sections:
-   - file: 08a/overview
-   - file: 08a/DFT_summary
+   - file: 08a/DFT_overview
+   - file: 08a/DFT_coding_help
    - file: 08a/DFT_Coding_Easy
    - file: 08a/DFT_coding_hard
    - file: 08a/DFT_more_exercises
