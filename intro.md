@@ -6,3 +6,4 @@ Follow the links below, or the links on the side, to access individual lectures'
 
 * [Lecture 03b: Class Conundrums](03b/overview.md)
 * [Lecture 04a: Advanced Techniques](04a/overview.md)
+* [Lecture 08a: Discrete Fourier Transforms](08a/overview.md)
