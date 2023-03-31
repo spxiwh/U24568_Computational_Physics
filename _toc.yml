@@ -47,4 +47,14 @@ chapters:
    - file: 08a/Aliasing_exercises
    - file: 08a/Aliasing_summary
    - file: 08a/CompPhys_Lect08a_DataProcessing1_FourierTransforms
-
+- file: 09b/overview
+   - file: 09b/introduction
+   - file: 09b/installing_profilers
+   - file: 09b/optimization_example
+   - file: 09b/optimization_exercises
+   - file: 09b/square_digits_opt
+   - file: 09b/using_the_right_tool
+   - file: 09b/sort_function
+   - file: 09b/example_sort_functions
+   - file: 09b/acknowledgements
+   - file: 09b/CompPhys_Lect09b_2022_2023_OptimisingCode
