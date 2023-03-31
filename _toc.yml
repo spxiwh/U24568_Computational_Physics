@@ -48,6 +48,7 @@ chapters:
    - file: 08a/Aliasing_summary
    - file: 08a/CompPhys_Lect08a_DataProcessing1_FourierTransforms
 - file: 09b/overview
+  sections:
    - file: 09b/introduction
    - file: 09b/installing_profilers
    - file: 09b/optimization_example
