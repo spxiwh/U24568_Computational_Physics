@@ -4,6 +4,37 @@
 format: jb-book
 root: intro
 chapters:
+- file: 01a/overview
+  sections:
+    - file: 01a/CompPhys_Lect01a_02_Expressions_Datatypes_Errors
+    - file: 01a/CompPhys_Lect01a_03_Loops_Conditionals
+    - file: 01a/CompPhys_Lect01a_04_Functions
+    - file: 01a/CompPhys_Lect01a_05_Numpy
+    - file: 01a/CompPhys_Lect01a_06_Plotting
+- file: 01b/overview
+  sections:
+    - file: 01b/CompPhys_Lect01b_02_Problem_A
+    - file: 01b/CompPhys_Lect01b_03_Problem_B    
+    - file: 01b/CompPhys_Lect01b_04_Problem_C
+    - file: 01b/CompPhys_Lect01b_05_Problem_D
+- file: 02a/overview
+  sections:
+    - file: 02a/CompPhys_Lect02a_01_Review
+    - file: 02a/CompPhys_Lect02a_02_BooleanIndexing
+    - file: 02a/CompPhys_Lect02a_03_NumpyMethods
+    - file: 02a/CompPhys_Lect02a_04_NumpyMatrices
+    - file: 02a/CompPhys_Lect02a_05_NumpyPandasIO
+    - file: 02a/CompPhys_Lect02a_06_Summary
+- file: 02b/overview
+  sections:
+    - file: 02b/CompPhys_Lect02b_01_Distributions
+    - file: 02b/CompPhys_Lect02b_02_MoreStatistics
+    - file: 02b/CompPhys_Lect02b_03_Challenge
+- file: 03a/overview
+  sections:
+    - file: 03a/CompPhys_Lect03a_01_GeneratingData
+    - file: 03a/CompPhys_Lect03a_02_ComputingPi
+    - file: 03a/CompPhys_Lect03a_03_WhatIsNoise
 - file: 03b/overview
   sections:
    - file: 03b/Introduction
@@ -16,7 +47,6 @@ chapters:
    - file: 03b/Recap
    - file: 03b/Summary_exercises
    - file: 03b/Acknowledgements
-   - file: 03b/CompPhys_Lect03b_2020_2021_ClassConundrums
 - file: 04a/overview
   sections:
    - file: 04a/Introduction
@@ -34,7 +64,26 @@ chapters:
    - file: 04a/Lambda_overview
    - file: 04a/Lambda_exercises
    - file: 04a/Summary_exercises
-   - file: 04a/CompPhys_Lect04a_2022-23_AdvancedTechniques
+- file: 04b/overview
+  sections:
+    - file: 04b/CompPhys_Lect04b_01_DataCleaning  
+- file: 05a/overview
+  sections:
+    - file: 05a/CompPhys_Lect05a_01_EulerMethod
+    - file: 05a/CompPhys_Lect05a_02_DecayingExponential
+    - file: 05a/CompPhys_Lect05a_03_Sinusoid
+    - file: 05a/CompPhys_Lect05a_04_CoupledEquations
+    - file: 05a/CompPhys_Lect05a_05_NonlinearEquation
+- file: 05b/overview    
+  sections:
+    - file: 05b/CompPhys_Lect05b_01_Gravity
+    - file: 05b/CompPhys_Lect05b_02_Earth
+    - file: 05b/CompPhys_Lect05b_03_MarsMission
+    - file: 05b/CompPhys_Lect05b_04_BlackHoleMergers
+    - file: 05b/CompPhys_Lect05b_05_Challenges
+- file: 06a/overview    
+  sections:
+    - file: 06a/CompPhys_Lect06a_01_NBody
 - file: 08a/overview
   sections:
    - file: 08a/DFT_overview
@@ -46,7 +95,6 @@ chapters:
    - file: 08a/Aliasing_introduction
    - file: 08a/Aliasing_exercises
    - file: 08a/Aliasing_summary
-   - file: 08a/CompPhys_Lect08a_DataProcessing1_FourierTransforms
 - file: 09b/overview
   sections:
    - file: 09b/introduction
@@ -58,4 +106,3 @@ chapters:
    - file: 09b/sort_function
    - file: 09b/example_sort_functions
    - file: 09b/acknowledgements
-   - file: 09b/CompPhys_Lect09b_2022_2023_OptimisingCode
