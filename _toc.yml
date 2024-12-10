@@ -84,6 +84,13 @@ chapters:
 - file: 06a/overview    
   sections:
     - file: 06a/CompPhys_Lect06a_01_NBody
+- file: 06b/overview
+  sections:
+    - file: 06b/CompPhys_Lect06b_01_PlottingPlotly
+- file: 07a/overview
+  sections:
+    - file: 07a/CompPhys_Lect07a_01_Review
+- file: 07b/overview
 - file: 08a/overview
   sections:
    - file: 08a/DFT_overview
@@ -95,6 +102,19 @@ chapters:
    - file: 08a/Aliasing_introduction
    - file: 08a/Aliasing_exercises
    - file: 08a/Aliasing_summary
+- file: 08b/overview
+  sections:
+    - file: 08b/CompPhys_Lect08b_01_NaiveHighPassFilter
+    - file: 08b/CompPhys_Lect08b_02_BetterHighPassFilter
+    - file: 08b/CompPhys_Lect08b_03_LongConvolutionExample
+    - file: 08b/CompPhys_Lect08b_04_Scipy
+    - file: 08b/CompPhys_Lect08b_05_Exercises
+- file: 09a/overview
+  sections:
+    - file: 09a/CompPhys_Lect09a_01_CrossCorrelation1
+    - file: 09a/CompPhys_Lect09a_02_CrossCorrelationExercises
+    - file: 09a/CompPhys_Lect09a_03_FreqDomainCrossCorrelation
+    - file: 09a/CompPhys_Lect09a_04_SignalExercises
 - file: 09b/overview
   sections:
    - file: 09b/introduction
@@ -106,3 +126,22 @@ chapters:
    - file: 09b/sort_function
    - file: 09b/example_sort_functions
    - file: 09b/acknowledgements
+- file: 10a/overview    
+  sections:
+    - file: 10a/CompPhys_Lect10a_01_CalculatingG
+    - file: 10a/CompPhys_Lect10a_02_BeatTheCasino
+    - file: 10a/CompPhys_Lect10a_03_ParameterUncertainties
+- file: 10b/overview
+  sections:
+    - file: 10b/CompPhys_Lect10b_1_ExerciseOne
+    - file: 10b/CompPhys_Lect10b_2_ExerciseTwo    
+- file: 11a/overview
+  sections:
+    - file: 11a/CompPhys_Lect11a_1_TheGoldfishBowl
+    - file: 11a/CompPhys_Lect11a_2_NoisyDataFittingRevisited
+- file: 11b/overview
+  sections:
+    - file: 11b/CompPhys_Lect11b_1_CythonDemonstration
+    - file: 11b/CompPhys_Lect11b_2_CythonDemonstration2
+    - file: 11b/CompPhys_Lect11b_3_Examples1
+    - file: 11b/CompPhys_Lect11b_4_Examples2
