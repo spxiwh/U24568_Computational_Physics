@@ -1,6 +1,11 @@
-# Lecture 6b: Fancy plots (or something)
+# Lecture 6b: Advanced Plotting
 
-This one tries to show how to make fancy plots in Python. It uses plotly to do this, but the notebook was clearly put together 10 minutes before the lecture started. It needs work, and the outcomes need to be part of the assessment structure. Currently not useful to the course as a whole.
+This lecture will cover some useful concepts for the visualisation of data from physics experiments. This includes:
+* advanced scatter plots
+* heatmaps
+* subplots
+
+First we will review the basics of plotting using matplotlib
 
 ```{tableofcontents}
 ```
