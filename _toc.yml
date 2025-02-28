@@ -37,16 +37,16 @@ chapters:
     - file: 03a/CompPhys_Lect03a_03_WhatIsNoise
 - file: 03b/overview
   sections:
-   - file: 03b/Introduction
-   - file: 03b/Initializing_a_class
-   - file: 03b/Initializing_a_class_exercise
-   - file: 03b/Optional_arguments 
-   - file: 03b/Class_defining_practice
-   - file: 03b/Attributes_and_inheritance
-   - file: 03b/Attributes_and_inheritance_exercise
-   - file: 03b/Recap
-   - file: 03b/Summary_exercises
-   - file: 03b/Acknowledgements
+   - file: 03b/CompPhys_Lect03b_01_Introduction
+   - file: 03b/CompPhys_Lect03b_02_Initializing_a_class
+   - file: 03b/CompPhys_Lect03b_03_Initializing_a_class_exercise
+   - file: 03b/CompPhys_Lect03b_04_Optional_arguments
+   - file: 03b/CompPhys_Lect03b_05_Class_defining_practice
+   - file: 03b/CompPhys_Lect03b_06_Attributes_and_inheritance
+   - file: 03b/CompPhys_Lect03b_07_Attributes_and_inheritance_exercise
+   - file: 03b/CompPhys_Lect03b_08_Recap
+   - file: 03b/CompPhys_Lect03b_09_Summary_exercises
+   - file: 03b/CompPhys_Lect03b_10_Acknowledgements
 - file: 04a/overview
   sections:
    - file: 04a/Introduction
