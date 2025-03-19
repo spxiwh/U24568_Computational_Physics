@@ -1,4 +1,4 @@
-# Lecture 8ab: Signal processing 2, Manipulating data in the frequency domain 
+# Lecture 8b: Signal processing 2, Manipulating data in the frequency domain
 
 In the previous data processing class we explored the Fourier transform, how to code it up, and how to apply it. Now let's investigate some examples of data manipulation techniques that are easier, or more natural, to perform in the frequency domain.
 
